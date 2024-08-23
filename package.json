@@ -1,0 +1,19 @@
+{
+  "name": "hello-npm-package-dat",
+  "version": "1.0.0",
+  "description": "Hello my name Dat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentiendat05122003/first-hello-npm.git"
+  },
+  "author": "Dat nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyentiendat05122003/first-hello-npm/issues"
+  },
+  "homepage": "https://github.com/nguyentiendat05122003/first-hello-npm#readme"
+}
